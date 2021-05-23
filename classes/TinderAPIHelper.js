@@ -1,6 +1,6 @@
 const request = require('request');
 const puppeteer = require('puppeteer');
-const env = require('dotenv').config({ path: './.env' });
+const env = require('dotenv').config({ path: './.env.production.local' });
 
 class TinderAPIHelper {
   constructor() {
