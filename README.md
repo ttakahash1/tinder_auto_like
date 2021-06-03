@@ -37,3 +37,5 @@ you can set conditions by editing 'utils.js'
 - MAX_AGE
 - DISTANCE
 - GENDER 0: male, 1: female.
+
+done.
